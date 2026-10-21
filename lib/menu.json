@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dirty-spanish",
+    "category": "Dirty",
+    "name": "Dirty Spanish Latte",
+    "arName": "لاتيه إسباني ديرتي",
+    "description": "Double espresso, condensed milk, cold milk.",
+    "arDescription": "إسبريسو مضاعف، حليب مكثف وحليب بارد.",
+    "price": "145 EGP",
+    "tags": ["Iced", "Caffeine"],
+    "image": "/images/dirty.webp"
+  },
+  {
+    "id": "dirty-matcha",
+    "category": "Dirty",
+    "name": "Dirty Matcha",
+    "arName": "ماتشا ديرتي",
+    "description": "Ceremonial matcha, milk, a shot of espresso.",
+    "arDescription": "ماتشا احتفالية، حليب وجرعة إسبريسو.",
+    "price": "155 EGP",
+    "tags": ["Iced", "Caffeine"],
+    "image": "/images/matcha.webp"
+  },
+  {
+    "id": "dirty-chocolate",
+    "category": "Dirty",
+    "name": "Dirty Chocolate",
+    "arName": "شوكولاتة ديرتي",
+    "description": "Dark chocolate, milk, espresso and sea salt.",
+    "arDescription": "شوكولاتة داكنة، حليب، إسبريسو وملح بحري.",
+    "price": "150 EGP",
+    "tags": ["Iced", "Caffeine"],
+    "image": "/images/iced.webp"
+  },
+  {
+    "id": "flat-white",
+    "category": "Espresso",
+    "name": "Flat White",
+    "arName": "فلات وايت",
+    "description": "A precise double shot with silky microfoam.",
+    "arDescription": "جرعة إسبريسو مضاعفة مع رغوة ناعمة.",
+    "price": "115 EGP",
+    "tags": ["Hot", "Caffeine"],
+    "image": "/images/latte.webp"
+  },
+  {
+    "id": "matcha-cloud",
+    "category": "Matcha",
+    "name": "Matcha Cloud",
+    "arName": "ماتشا كلاود",
+    "description": "Bright ceremonial matcha, vanilla cream.",
+    "arDescription": "ماتشا احتفالية مشرقة وكريمة فانيليا.",
+    "price": "140 EGP",
+    "tags": ["Iced", "Vegan-friendly"],
+    "image": "/images/matcha.webp"
+  },
+  {
+    "id": "filter-house",
+    "category": "Filter",
+    "name": "House Filter",
+    "arName": "قهوة اليوم",
+    "description": "Rotating single-origin coffee, brewed clean.",
+    "arDescription": "قهوة أحادية المصدر متغيرة، محضّرة بنقاء.",
+    "price": "95 EGP",
+    "tags": ["Hot", "Caffeine"],
+    "image": "/images/pourover.webp"
+  },
+  {
+    "id": "cinnamon-roll",
+    "category": "Bakery",
+    "name": "Cinnamon Roll",
+    "arName": "رول القرفة",
+    "description": "Warm laminated pastry, brown sugar, spice.",
+    "arDescription": "معجنات مورّقة دافئة، سكر بني وتوابل.",
+    "price": "90 EGP",
+    "tags": ["Vegan-friendly"],
+    "image": "/images/croissant.webp"
+  },
+  {
+    "id": "iced-americano",
+    "category": "Iced",
+    "name": "Iced Americano",
+    "arName": "أمريكانو مثلج",
+    "description": "Espresso, chilled water, a lot of clarity.",
+    "arDescription": "إسبريسو وماء بارد، بنقاء كامل.",
+    "price": "100 EGP",
+    "tags": ["Iced", "Caffeine"],
+    "image": "/images/americano.webp"
+  }
+]
