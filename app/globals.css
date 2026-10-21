@@ -21,6 +21,15 @@
 
   --font-latin: var(--font-manrope), ui-sans-serif, system-ui, Arial, sans-serif;
   --font-arabic-stack: var(--font-arabic), var(--font-manrope), ui-sans-serif, sans-serif;
+
+  --nav-h: 64px;
+  --menu-controls-h: 66px;
+}
+
+@media (min-width: 901px) {
+  :root {
+    --nav-h: 72px;
+  }
 }
 
 /* -------------------------------------------------------------------- base */
@@ -110,6 +119,10 @@ figure {
   border: 0;
 }
 
+.bidi-isolate {
+  unicode-bidi: isolate;
+}
+
 /* ---------------------------------------------------------------- primitives */
 .container {
   width: 100%;
@@ -170,16 +183,25 @@ figure {
 #branches,
 #gallery,
 #dirty {
-  scroll-margin-top: clamp(76px, 10vh, 110px);
+  scroll-margin-top: calc(var(--nav-h) + env(safe-area-inset-top) + 16px);
 }
 
 /* ------------------------------------------------------------------ header */
 .site-header {
-  position: absolute;
+  position: sticky;
   inset-block-start: 0;
   inset-inline: 0;
-  z-index: 30;
-  padding-block: clamp(14px, 2vw, 26px);
+  z-index: 75;
+  height: calc(var(--nav-h) + env(safe-area-inset-top));
+  padding-block: 0;
+  padding-block-start: env(safe-area-inset-top);
+  background: var(--paper);
+  border-bottom: 1px solid transparent;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+}
+
+.site-header.is-scrolled {
+  border-bottom-color: var(--line);
 }
 
 .header-inner {
@@ -188,6 +210,7 @@ figure {
   align-items: center;
   justify-content: space-between;
   gap: 20px;
+  height: 100%;
 }
 
 .brand-link {
@@ -199,6 +222,17 @@ figure {
 .brand-logo {
   width: clamp(66px, 6vw, 92px);
   height: auto;
+}
+
+.site-header .brand-logo {
+  width: auto;
+  height: 38px;
+}
+
+@media (min-width: 901px) {
+  .site-header .brand-logo {
+    height: 42px;
+  }
 }
 
 .brand-logo-light {
@@ -294,7 +328,7 @@ figure {
   padding-inline: 1px;
 }
 
-.nav-toggle {
+.site-header .nav-toggle {
   display: none;
   min-height: 44px;
   padding-inline: 16px;
@@ -347,7 +381,7 @@ figure {
 .hero-section {
   position: relative;
   display: flex;
-  min-height: 100svh;
+  min-height: calc(100svh - var(--nav-h) - env(safe-area-inset-top));
   overflow: hidden;
 }
 
@@ -356,8 +390,12 @@ figure {
   flex-direction: column;
   justify-content: space-between;
   gap: clamp(14px, 3.5vh, 40px);
-  min-height: 100svh;
-  padding-block: clamp(96px, 14vh, 164px) clamp(104px, 12vh, 140px);
+  min-height: calc(100svh - var(--nav-h) - env(safe-area-inset-top));
+  padding-block: max(
+      20px,
+      calc(clamp(96px, 14vh, 164px) - var(--nav-h) - env(safe-area-inset-top))
+    )
+    clamp(104px, 12vh, 140px);
 }
 
 .hero-meta {
@@ -435,6 +473,7 @@ figure {
 
 /* ----------------------------------------------------------------- marquee */
 .marquee {
+  width: 100%;
   overflow: hidden;
   background: var(--ink);
   color: var(--paper);
@@ -444,10 +483,12 @@ figure {
   display: flex;
   width: max-content;
   animation: marquee 30s linear infinite;
+  will-change: transform;
 }
 
 .marquee-group {
   display: flex;
+  flex: 0 0 auto;
   align-items: center;
   gap: clamp(20px, 3vw, 48px);
   padding-inline-end: clamp(20px, 3vw, 48px);
@@ -1291,7 +1332,11 @@ figure {
 
 /* --------------------------------------------------------------- menu page */
 .menu-hero {
-  padding-block: clamp(112px, 13vw, 164px) clamp(32px, 4vw, 56px);
+  padding-block: max(
+      20px,
+      calc(clamp(112px, 13vw, 164px) - var(--nav-h) - env(safe-area-inset-top))
+    )
+    clamp(32px, 4vw, 56px);
 }
 
 .menu-hero-grid {
@@ -1328,7 +1373,7 @@ figure {
 
 .menu-controls-wrap {
   position: sticky;
-  inset-block-start: 0;
+  inset-block-start: calc(var(--nav-h) + env(safe-area-inset-top));
   z-index: 20;
   border-block: 1px solid var(--line);
   background: color-mix(in srgb, var(--paper) 94%, transparent);
@@ -1402,6 +1447,12 @@ figure {
 
 .menu-results {
   scroll-margin-top: 130px;
+}
+
+#dirty.menu-results {
+  scroll-margin-top: calc(
+    var(--nav-h) + env(safe-area-inset-top) + var(--menu-controls-h) + 16px
+  );
 }
 
 .results-meta {
@@ -1539,6 +1590,10 @@ figure {
 }
 
 @media (max-width: 900px) {
+  :root {
+    --menu-controls-h: 122px;
+  }
+
   .desktop-nav {
     display: none;
   }
@@ -1547,7 +1602,7 @@ figure {
     gap: 8px;
   }
 
-  .nav-toggle {
+  .site-header .nav-toggle {
     display: inline-flex;
     min-height: 48px;
   }
@@ -1564,7 +1619,11 @@ figure {
   }
 
   .hero-inner {
-    padding-block: clamp(104px, 14vh, 140px) clamp(116px, 15vh, 152px);
+    padding-block: max(
+        20px,
+        calc(clamp(104px, 14vh, 140px) - var(--nav-h) - env(safe-area-inset-top))
+      )
+      clamp(116px, 15vh, 152px);
   }
 
   .hero-main-logo {
@@ -1858,7 +1917,11 @@ figure {
   }
 
   .menu-hero {
-    padding-block: 104px 28px;
+    padding-block: max(
+        20px,
+        calc(104px - var(--nav-h) - env(safe-area-inset-top))
+      )
+      28px;
   }
 
   .menu-hero-copy .display-heading {

@@ -1,0 +1,290 @@
+[
+  {
+    "width": 390,
+    "locale": "en",
+    "name": "home",
+    "data": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "header": {
+        "top": 0,
+        "bottom": 64,
+        "height": 64,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 12.5,
+        "bottom": 50.5,
+        "height": 38
+      },
+      "hero": {
+        "top": 64,
+        "bottom": 844,
+        "height": 780
+      },
+      "heroMetaTop": 118.16,
+      "heroLogoTop": 197.63,
+      "heroLogoBottom": 501.81,
+      "heroContentBottom": 717.41,
+      "menuHeroTop": null,
+      "menuCopyTop": null,
+      "toggleDisplay": "flex",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "none"
+    },
+    "pass": true
+  },
+  {
+    "width": 390,
+    "locale": "en",
+    "name": "menu",
+    "data": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "header": {
+        "top": 0,
+        "bottom": 64,
+        "height": 64,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 12.5,
+        "bottom": 50.5,
+        "height": 38
+      },
+      "hero": null,
+      "heroMetaTop": null,
+      "heroLogoTop": null,
+      "heroLogoBottom": null,
+      "heroContentBottom": null,
+      "menuHeroTop": 64,
+      "menuCopyTop": 104,
+      "toggleDisplay": "flex",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "none"
+    },
+    "pass": true
+  },
+  {
+    "width": 390,
+    "locale": "ar",
+    "name": "home",
+    "data": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "header": {
+        "top": 0,
+        "bottom": 64,
+        "height": 64,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 12.5,
+        "bottom": 50.5,
+        "height": 38
+      },
+      "hero": {
+        "top": 64,
+        "bottom": 844,
+        "height": 780
+      },
+      "heroMetaTop": 118.16,
+      "heroLogoTop": 206.78,
+      "heroLogoBottom": 510.97,
+      "heroContentBottom": 717.41,
+      "menuHeroTop": null,
+      "menuCopyTop": null,
+      "toggleDisplay": "flex",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "none"
+    },
+    "pass": true
+  },
+  {
+    "width": 390,
+    "locale": "ar",
+    "name": "menu",
+    "data": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "header": {
+        "top": 0,
+        "bottom": 64,
+        "height": 64,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 12.5,
+        "bottom": 50.5,
+        "height": 38
+      },
+      "hero": null,
+      "heroMetaTop": null,
+      "heroLogoTop": null,
+      "heroLogoBottom": null,
+      "heroContentBottom": null,
+      "menuHeroTop": 64,
+      "menuCopyTop": 104,
+      "toggleDisplay": "flex",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "none"
+    },
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "locale": "en",
+    "name": "home",
+    "data": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "height": 72,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 14.5,
+        "bottom": 56.5,
+        "height": 42
+      },
+      "hero": {
+        "top": 72,
+        "bottom": 924.7,
+        "height": 852.7
+      },
+      "heroMetaTop": 126,
+      "heroLogoTop": 184.34,
+      "heroLogoBottom": 663.75,
+      "heroContentBottom": 816.7,
+      "menuHeroTop": null,
+      "menuCopyTop": null,
+      "toggleDisplay": "none",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "flex"
+    },
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "locale": "en",
+    "name": "menu",
+    "data": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "height": 72,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 14.5,
+        "bottom": 56.5,
+        "height": 42
+      },
+      "hero": null,
+      "heroMetaTop": null,
+      "heroLogoTop": null,
+      "heroLogoBottom": null,
+      "heroContentBottom": null,
+      "menuHeroTop": 72,
+      "menuCopyTop": 381.22,
+      "toggleDisplay": "none",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "flex"
+    },
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "locale": "ar",
+    "name": "home",
+    "data": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "height": 72,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 14.5,
+        "bottom": 56.5,
+        "height": 42
+      },
+      "hero": {
+        "top": 72,
+        "bottom": 920.7,
+        "height": 848.7
+      },
+      "heroMetaTop": 126,
+      "heroLogoTop": 186.27,
+      "heroLogoBottom": 665.67,
+      "heroContentBottom": 812.7,
+      "menuHeroTop": null,
+      "menuCopyTop": null,
+      "toggleDisplay": "none",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "flex"
+    },
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "locale": "ar",
+    "name": "menu",
+    "data": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "height": 72,
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "background": "rgb(246, 244, 239)"
+      },
+      "brand": {
+        "top": 14.5,
+        "bottom": 56.5,
+        "height": 42
+      },
+      "hero": null,
+      "heroMetaTop": null,
+      "heroLogoTop": null,
+      "heroLogoBottom": null,
+      "heroContentBottom": null,
+      "menuHeroTop": 72,
+      "menuCopyTop": 463.8,
+      "toggleDisplay": "none",
+      "languageDisplay": "flex",
+      "desktopNavDisplay": "flex"
+    },
+    "pass": true
+  }
+]

@@ -70,6 +70,25 @@ export function Header() {
   // The panel belongs to the route it was opened on, so a route change closes it
   // without an extra render pass.
   const open = menuPath === pathname
+  const [scrolled, setScrolled] = useState(false)
+
+  useEffect(() => {
+    let frame = 0
+    const update = () => {
+      frame = 0
+      setScrolled(window.scrollY > 4)
+    }
+    const onScroll = () => {
+      if (frame) return
+      frame = window.requestAnimationFrame(update)
+    }
+    frame = window.requestAnimationFrame(update)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => {
+      window.removeEventListener('scroll', onScroll)
+      if (frame) window.cancelAnimationFrame(frame)
+    }
+  }, [pathname])
 
 
   useEffect(() => {
@@ -88,7 +107,7 @@ export function Header() {
   ]
 
   return (
-    <header className="site-header">
+    <header className={`site-header${scrolled ? ' is-scrolled' : ''}`}>
       <div className="container header-inner">
         <Link href="/" aria-label={t.homeAria} className="brand-link" onClick={onNavigate}>
           <Mark alt={t.alts.brand} priority />

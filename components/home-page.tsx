@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { BrandLink } from '@/components/brand-controls'
 import { Intro } from '@/components/intro'
+import { Marquee } from '@/components/marquee'
 import { MenuCard } from '@/components/menu-card'
 import { useLocale } from '@/components/locale-provider'
 import { useDocumentMeta } from '@/components/use-document-meta'
@@ -68,7 +69,7 @@ export function HomePage() {
                     {t.find}
                   </BrandLink>
                 </div>
-                <div className="hero-coords font-mono">
+                <div className="hero-coords font-mono bidi-isolate" dir="ltr">
                   {t.coords.split('\n').map((line) => (
                     <span key={line}>{line}</span>
                   ))}
@@ -78,20 +79,7 @@ export function HomePage() {
           </div>
         </section>
 
-        <div className="marquee" aria-hidden="true">
-          <div className="marquee-track">
-            {[0, 1].map((group) => (
-              <div className="marquee-group" key={group}>
-                {t.marquee.map((word) => (
-                  <span key={`${group}-${word}`}>
-                    {word}
-                    <i>✦</i>
-                  </span>
-                ))}
-              </div>
-            ))}
-          </div>
-        </div>
+        <Marquee items={t.marquee} />
 
         <section className="section dose-section" id="story">
           <div className="container">

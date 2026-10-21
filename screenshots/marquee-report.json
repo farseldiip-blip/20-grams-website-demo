@@ -1,0 +1,1066 @@
+[
+  {
+    "width": 390,
+    "locale": "en",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 977,
+        "halfWidth": 488.5,
+        "groups": 2,
+        "groupWidth": 488.7,
+        "firstLeft": 0,
+        "lastRight": 977.41,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 977,
+        "halfWidth": 488.5,
+        "groups": 2,
+        "groupWidth": 488.7,
+        "firstLeft": -122.18,
+        "lastRight": 855.23,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 977,
+        "halfWidth": 488.5,
+        "groups": 2,
+        "groupWidth": 488.7,
+        "firstLeft": -244.35,
+        "lastRight": 733.05,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 977,
+        "halfWidth": 488.5,
+        "groups": 2,
+        "groupWidth": 488.7,
+        "firstLeft": -366.53,
+        "lastRight": 610.88,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 977,
+        "halfWidth": 488.5,
+        "groups": 2,
+        "groupWidth": 488.7,
+        "firstLeft": -483.82,
+        "lastRight": 493.59,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 EGP",
+        "155 EGP",
+        "150 EGP",
+        "115 EGP"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 390,
+    "locale": "ar",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 1327,
+        "halfWidth": 663.5,
+        "groups": 4,
+        "groupWidth": 331.83,
+        "firstLeft": -937.31,
+        "lastRight": 390,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 1327,
+        "halfWidth": 663.5,
+        "groups": 4,
+        "groupWidth": 331.83,
+        "firstLeft": -771.4,
+        "lastRight": 555.91,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 1327,
+        "halfWidth": 663.5,
+        "groups": 4,
+        "groupWidth": 331.83,
+        "firstLeft": -605.48,
+        "lastRight": 721.83,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 1327,
+        "halfWidth": 663.5,
+        "groups": 4,
+        "groupWidth": 331.83,
+        "firstLeft": -439.57,
+        "lastRight": 887.74,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 390,
+        "marqueeWidth": 390,
+        "marqueeLeft": 0,
+        "marqueeRight": 390,
+        "trackWidth": 1327,
+        "halfWidth": 663.5,
+        "groups": 4,
+        "groupWidth": 331.83,
+        "firstLeft": -280.29,
+        "lastRight": 1047.02,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 ج.م",
+        "155 ج.م",
+        "150 ج.م",
+        "115 ج.م"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1440,
+    "locale": "en",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3767,
+        "halfWidth": 1883.5,
+        "groups": 6,
+        "groupWidth": 627.83,
+        "firstLeft": 0,
+        "lastRight": 3766.97,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3767,
+        "halfWidth": 1883.5,
+        "groups": 6,
+        "groupWidth": 627.83,
+        "firstLeft": -470.87,
+        "lastRight": 3296.1,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3767,
+        "halfWidth": 1883.5,
+        "groups": 6,
+        "groupWidth": 627.83,
+        "firstLeft": -941.74,
+        "lastRight": 2825.23,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3767,
+        "halfWidth": 1883.5,
+        "groups": 6,
+        "groupWidth": 627.83,
+        "firstLeft": -1412.61,
+        "lastRight": 2354.36,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3767,
+        "halfWidth": 1883.5,
+        "groups": 6,
+        "groupWidth": 627.83,
+        "firstLeft": -1864.65,
+        "lastRight": 1902.32,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N\n31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 EGP",
+        "155 EGP",
+        "150 EGP",
+        "115 EGP"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1440,
+    "locale": "ar",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3768,
+        "halfWidth": 1884,
+        "groups": 8,
+        "groupWidth": 470.95,
+        "firstLeft": -2327.62,
+        "lastRight": 1440,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3768,
+        "halfWidth": 1884,
+        "groups": 8,
+        "groupWidth": 470.95,
+        "firstLeft": -1856.67,
+        "lastRight": 1910.95,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3768,
+        "halfWidth": 1884,
+        "groups": 8,
+        "groupWidth": 470.95,
+        "firstLeft": -1385.72,
+        "lastRight": 2381.91,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3768,
+        "halfWidth": 1884,
+        "groups": 8,
+        "groupWidth": 470.95,
+        "firstLeft": -914.77,
+        "lastRight": 2852.86,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 1440,
+        "marqueeWidth": 1440,
+        "marqueeLeft": 0,
+        "marqueeRight": 1440,
+        "trackWidth": 3768,
+        "halfWidth": 1884,
+        "groups": 8,
+        "groupWidth": 470.95,
+        "firstLeft": -462.65,
+        "lastRight": 3304.97,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N\n31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 ج.م",
+        "155 ج.م",
+        "150 ج.م",
+        "115 ج.م"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1920,
+    "locale": "en",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3940,
+        "halfWidth": 1970,
+        "groups": 6,
+        "groupWidth": 656.7,
+        "firstLeft": 0,
+        "lastRight": 3940.22,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3940,
+        "halfWidth": 1970,
+        "groups": 6,
+        "groupWidth": 656.7,
+        "firstLeft": -492.53,
+        "lastRight": 3447.69,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3940,
+        "halfWidth": 1970,
+        "groups": 6,
+        "groupWidth": 656.7,
+        "firstLeft": -985.05,
+        "lastRight": 2955.16,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3940,
+        "halfWidth": 1970,
+        "groups": 6,
+        "groupWidth": 656.7,
+        "firstLeft": -1477.58,
+        "lastRight": 2462.64,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3940,
+        "halfWidth": 1970,
+        "groups": 6,
+        "groupWidth": 656.7,
+        "firstLeft": -1950.41,
+        "lastRight": 1989.81,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N\n31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 EGP",
+        "155 EGP",
+        "150 EGP",
+        "115 EGP"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 1920,
+    "locale": "ar",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3999,
+        "halfWidth": 1999.5,
+        "groups": 8,
+        "groupWidth": 499.83,
+        "firstLeft": -2078.62,
+        "lastRight": 1920,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3999,
+        "halfWidth": 1999.5,
+        "groups": 8,
+        "groupWidth": 499.83,
+        "firstLeft": -1578.8,
+        "lastRight": 2419.83,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3999,
+        "halfWidth": 1999.5,
+        "groups": 8,
+        "groupWidth": 499.83,
+        "firstLeft": -1078.97,
+        "lastRight": 2919.66,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3999,
+        "halfWidth": 1999.5,
+        "groups": 8,
+        "groupWidth": 499.83,
+        "firstLeft": -579.14,
+        "lastRight": 3419.48,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 1920,
+        "marqueeWidth": 1920,
+        "marqueeLeft": 0,
+        "marqueeRight": 1920,
+        "trackWidth": 3999,
+        "halfWidth": 1999.5,
+        "groups": 8,
+        "groupWidth": 499.83,
+        "firstLeft": -99.31,
+        "lastRight": 3899.32,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N\n31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 ج.م",
+        "155 ج.م",
+        "150 ج.م",
+        "115 ج.م"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 2560,
+    "locale": "en",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5254,
+        "halfWidth": 2627,
+        "groups": 8,
+        "groupWidth": 656.7,
+        "firstLeft": 0,
+        "lastRight": 5253.63,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5254,
+        "halfWidth": 2627,
+        "groups": 8,
+        "groupWidth": 656.7,
+        "firstLeft": -656.7,
+        "lastRight": 4596.92,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5254,
+        "halfWidth": 2627,
+        "groups": 8,
+        "groupWidth": 656.7,
+        "firstLeft": -1313.41,
+        "lastRight": 3940.22,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5254,
+        "halfWidth": 2627,
+        "groups": 8,
+        "groupWidth": 656.7,
+        "firstLeft": -1970.11,
+        "lastRight": 3283.52,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5254,
+        "halfWidth": 2627,
+        "groups": 8,
+        "groupWidth": 656.7,
+        "firstLeft": -2600.54,
+        "lastRight": 2653.08,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "en",
+        "dir": "ltr"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N\n31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 EGP",
+        "155 EGP",
+        "150 EGP",
+        "115 EGP"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  },
+  {
+    "width": 2560,
+    "locale": "ar",
+    "checks": [
+      {
+        "progress": 0,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5998,
+        "halfWidth": 2999,
+        "groups": 12,
+        "groupWidth": 499.83,
+        "firstLeft": -3437.94,
+        "lastRight": 2560,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.25,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5998,
+        "halfWidth": 2999,
+        "groups": 12,
+        "groupWidth": 499.83,
+        "firstLeft": -2688.2,
+        "lastRight": 3309.74,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.5,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5998,
+        "halfWidth": 2999,
+        "groups": 12,
+        "groupWidth": 499.83,
+        "firstLeft": -1938.45,
+        "lastRight": 4059.48,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.75,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5998,
+        "halfWidth": 2999,
+        "groups": 12,
+        "groupWidth": 499.83,
+        "firstLeft": -1188.71,
+        "lastRight": 4809.23,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      },
+      {
+        "progress": 0.99,
+        "viewport": 2560,
+        "marqueeWidth": 2560,
+        "marqueeLeft": 0,
+        "marqueeRight": 2560,
+        "trackWidth": 5998,
+        "halfWidth": 2999,
+        "groups": 12,
+        "groupWidth": 499.83,
+        "firstLeft": -468.96,
+        "lastRight": 5528.98,
+        "edgeStartCovered": true,
+        "edgeEndCovered": true,
+        "maxGap": 0,
+        "horizontalScroll": 0,
+        "lang": "ar",
+        "dir": "rtl"
+      }
+    ],
+    "bidi": {
+      "dir": "ltr",
+      "unicodeBidi": "isolate",
+      "direction": "ltr",
+      "text": "30° 00′ 42.0″ N\n31° 25′ 18.0″ E",
+      "lines": [
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "30° 00′ 42.0″ N"
+        },
+        {
+          "dir": null,
+          "unicodeBidi": "normal",
+          "text": "31° 25′ 18.0″ E"
+        }
+      ]
+    },
+    "menuBidi": {
+      "prices": [
+        "145 ج.م",
+        "155 ج.م",
+        "150 ج.م",
+        "115 ج.م"
+      ],
+      "branches": [],
+      "heroMeta": null
+    },
+    "errors": [
+      "http 404: http://localhost:3000/_vercel/insights/script.js",
+      "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ]
+  }
+]
